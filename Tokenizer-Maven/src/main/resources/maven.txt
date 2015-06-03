@@ -1,0 +1,4 @@
+mvn install:install-file -Dfile=E:\myjar\Tokenize\aoding-analysis.jar -DgroupId=net.paoding -DartifactId=paoding-analysis -Dversion=3 -Dpackaging=jar -DgeneratePom=true -DcreateChecksum=true  
+mvn install:install-file -Dfile=E:\myjar\Tokenize\lucene-core-3.1.0.jar -DgroupId=net.paoding -DartifactId=paoding-analysis -Dversion=3 -Dpackaging=jar -DgeneratePom=true -DcreateChecksum=true  
+lucene-analyzers-2.2.0
+mvn install:install-file -Dfile=E:\myjar\Tokenize\lucene-analyzers-2.2.0.jar -DgroupId=net.paoding -DartifactId=lucene-analysis -Dversion=3 -Dpackaging=jar -DgeneratePom=true -DcreateChecksum=true  
